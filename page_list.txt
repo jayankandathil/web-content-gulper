@@ -1,0 +1,13 @@
+/content/we-retail/us/en.html
+/content/we-retail/us/en/men.html
+/content/we-retail/us/en/women.html
+/content/we-retail/us/en/equipment.html
+/content/we-retail/us/en/products.html
+/content/we-retail/us/en/about-us.html
+/content/we-retail/us/en/experience.html
+/content/we-retail/us/en/experience/hours-of-wilderness.html
+/content/we-retail/us/en/experience/fly-fishing-the-amazon.html
+/content/we-retail/us/en/experience/skitouring.html
+/content/we-retail/us/en/experience/steelhead-and-spines-in-alaska.html
+/content/we-retail/us/en/experience/wester-australia-by-camper-van.html
+/content/we-retail/us/en/experience/arctic-surfing-in-lofoten.html

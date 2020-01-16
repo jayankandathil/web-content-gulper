@@ -1,0 +1,18 @@
+# List of URLs
+URL_LIST=page_list.txt
+
+# Number of times to repeat the page list (longer test duration)
+NUM_REPEAT=1
+
+# Number of concurrent threads (users) (higher request load on target server)
+NUM_CONCURRENT_USERS=1
+
+# Authentication required?
+AUTHENTICATE=false
+
+USER_ID=
+PASSWORD=
+
+SCHEME=https
+HOST=opsani-poc-2.adobecemcloud.net
+PORT=443
